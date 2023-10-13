@@ -11,10 +11,16 @@
 | 19/0134810  |  Shaíne Aparecida Cardoso de Oliveira |
 
 ## Sobre 
+O repositório contém soluções para algumas questões de juíz online do AtCoder, Codeforces e BeeCrowd
+
+- [G_grafo]()
+- [Minimum Maximum Distance](https://codeforces.com/problemset/problem/1881/F)
 
 
 ## Screenshots e Apresentações
-
+- Minimum and maximum Distance
+  
+![Minimum and maximum Distance](img/mmd.png)
 
 ## Instalação 
 **Linguagem**: C++<br>
