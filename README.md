@@ -15,12 +15,17 @@ O repositório contém soluções para algumas questões de juíz online do AtCo
 
 - [G_grafo]()
 - [Minimum Maximum Distance](https://codeforces.com/problemset/problem/1881/F)
+- [Roteadores](https://www.beecrowd.com.br/judge/pt/problems/view/1774)
 
 
 ## Screenshots e Apresentações
 - Minimum and maximum Distance
   
 ![Minimum and maximum Distance](img/mmd.png)
+
+- Roteadores
+  
+![Roteadores](img/roteadores.png)
 
 ## Instalação 
 **Linguagem**: C++<br>
