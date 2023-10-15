@@ -13,12 +13,17 @@
 ## Sobre 
 O repositório contém soluções para algumas questões de juíz online do AtCoder, Codeforces e BeeCrowd
 
-- [G_grafo]()
+- [G de grafo](https://www.beecrowd.com.br/judge/en/problems/view/3144)
 - [Minimum Maximum Distance](https://codeforces.com/problemset/problem/1881/F)
+- [Resgate em Queda Livre](https://www.beecrowd.com.br/judge/en/problems/view/1552)
 - [Roteadores](https://www.beecrowd.com.br/judge/pt/problems/view/1774)
 
 
 ## Screenshots e Apresentações
+
+- G de grafo
+![G de grafo](img/g_graph.jpeg)
+
 - Minimum and maximum Distance
   
 ![Minimum and maximum Distance](img/mmd.png)
@@ -26,6 +31,9 @@ O repositório contém soluções para algumas questões de juíz online do AtCo
 - Roteadores
   
 ![Roteadores](img/roteadores.png)
+
+- Resgate em Queda Livre
+![Resgate em Queda Livre](img/queda_livre.jpeg)
 
 ## Instalação 
 **Linguagem**: C++<br>
