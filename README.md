@@ -40,7 +40,7 @@ O repositório contém soluções para algumas questões de juíz online do AtCo
 **Para maior conforto, as apresentações estão no youtube. Mas caso não consiga acessa-las, os vídeos se encontram na pasta [apresentacoes](https://github.com/projeto-de-algoritmos/Grafos2_ExerciciosJuizOnline/tree/master/apresentacoes).**
 
 - [Apresentação dos problemas Minimun And Maximum Distance](https://www.youtube.com/watch?v=pCcjbO8UTr4)
-- [Apresentação dos problemas G_grafo e Resgate em Queda Livre]()
+- [Apresentação dos problemas G_grafo e Resgate em Queda Livre](https://youtu.be/6qRsmQkskuQ)
 
 ## Instalação 
 **Linguagem**: C++<br>
